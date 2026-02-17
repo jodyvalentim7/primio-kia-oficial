@@ -133,7 +133,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
                     // Load checkout video script
                     var s = document.createElement("script");
-                    s.src = "https://scripts.converteai.net/77f7f12d-5e90-456d-b45e-7c7f2aa34ed0/players/698d0348ceb26906d0012546/v4/player.js";
+                    s.src = "https://scripts.converteai.net/126e9a8d-4c24-46f0-82e5-3c92e231f00c/players/6994c1da93cf2a0f91c845ae/v4/player.js";
                     s.async = true;
                     document.head.appendChild(s);
 
